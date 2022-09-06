@@ -1,0 +1,7 @@
+<AtvPersistencia.Aluno>
+  <nome>0009</nome>
+  <matricula>Gustavo</matricula>
+  <cpf>1242421</cpf>
+  <dataNascimento>07/12/2002</dataNascimento>
+  <email>gustavo@gmail.com</email>
+</AtvPersistencia.Aluno>
